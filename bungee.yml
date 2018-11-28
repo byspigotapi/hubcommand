@@ -1,0 +1,4 @@
+main: com.nettyexception.hubcommand.Launcher
+name: HubCommand
+version: 1.0
+author: Netty
